@@ -1,4 +1,4 @@
-package th.co.ais.smarthome;
+package th.co.ais.smarthome.smartpad;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("th.co.ais.smarthome", appContext.getPackageName());
+        assertEquals("th.co.ais.smarthome.smartpad", appContext.getPackageName());
     }
 }

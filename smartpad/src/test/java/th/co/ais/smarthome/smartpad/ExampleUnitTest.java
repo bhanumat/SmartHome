@@ -1,4 +1,4 @@
-package th.co.ais.smarthome;
+package th.co.ais.smarthome.smartpad;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package th.co.ais.smartanywhere;
+package th.co.ais.smarthome.data;
 
 import org.junit.Test;
 
